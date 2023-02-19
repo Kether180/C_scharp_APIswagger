@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/minitwit7.props" />
+</Project>

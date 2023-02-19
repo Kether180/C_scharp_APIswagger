@@ -1,0 +1,22 @@
+Latest: GET
+    Should return the lastest request as a json example
+
+    type:
+    
+
+
+Register: POST
+
+msgs: GET
+
+msgs/<username>:
+    GET:
+
+    POST:
+
+
+fllws/<username>:
+    GET:
+
+    POST:
+
